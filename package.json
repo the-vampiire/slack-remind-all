@@ -1,0 +1,29 @@
+{
+  "name": "slack-remind-all",
+  "version": "1.0.0",
+  "description": "issues a reminder to all users in a Slack team",
+  "main": "script.js",
+  "dependencies": {
+    "axios": "^0.18.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "go": "node script.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/the-vampiire/slack-remind-all.git"
+  },
+  "keywords": [
+    "slack",
+    "team",
+    "remind",
+    "all"
+  ],
+  "author": "Vampiire",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/the-vampiire/slack-remind-all/issues"
+  },
+  "homepage": "https://github.com/the-vampiire/slack-remind-all#readme"
+}
